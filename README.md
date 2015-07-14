@@ -4,7 +4,7 @@
 
 ## Acknowledgements
 
-Inspiration and code was taken from many sources, including:
+Inspiration and article was taken from many sources, including:
 
 * [frontend-feeds](https://github.com/paulirish/frontend-feeds) by Paul Irish
 * [Stuff](https://github.com/sindresorhus/stuff) by Sindre Sorhus
