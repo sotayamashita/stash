@@ -49,5 +49,6 @@
 <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com" />
 <outline text="Zach Holman" title="Zach Holman" type="rss" xmlUrl="http://feeds.feedburner.com/holman" htmlUrl="http://zachholman.com/" />
 <outline text="Chromium" title="Chromium" type="rss" xmlUrl="http://blog.chromium.org/feeds/posts/default?alt=rss" htmlUrl="http://blog.chromium.org/" />
-<outline text="Apple Developer News" title="Apple Developer News" type="rss" xmlUrl="http://developer.apple.com/news/rss/news.rss" htmlUrl="http://developer.apple.com/news/" /></body>
+<outline text="Apple Developer News" title="Apple Developer News" type="rss" xmlUrl="http://developer.apple.com/news/rss/news.rss" htmlUrl="http://developer.apple.com/news/" />
+</body>
 </opml>
