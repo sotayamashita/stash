@@ -1,6 +1,6 @@
 # Feeds
 
-[RSS feeds]() I subscribe. Here is [OPML]()
+[RSS feeds]() I subscribe. Here is [OPML](http://www.wikiwand.com/en/OPML)
 
 ## Acknowledgements
 
