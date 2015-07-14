@@ -1,6 +1,6 @@
 # Feeds
 
-:newspaper: Frontend RSS
+[RSS feeds]() I subscribe. Here is [OPML]()
 
 ## Acknowledgements
 
