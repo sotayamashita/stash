@@ -7,7 +7,9 @@
 Inspiration and article was taken from many sources, including:
 
 * [frontend-feeds](https://github.com/paulirish/frontend-feeds) by Paul Irish
+* [frontend-feeds](https://github.com/impressivewebs/frontend-feeds) by Louis Lazaris
 * [Stuff](https://github.com/sindresorhus/stuff) by Sindre Sorhus
+* [FRONT-END TECHNOLOGIES](http://uptodate.frontendrescue.org/) by Front-end Rescue
 
 ## License
 
