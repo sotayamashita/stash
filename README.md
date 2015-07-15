@@ -1,6 +1,6 @@
 # Feeds
 
-[RSS feeds](http://opmlviewer.com/Viewer/?https%3a%2f%2fraw.githubusercontent.com%2fsotayamashita%2ffeeds%2fmaster%2ffeeds.xml) I subscribe. Here is [OPML](http://www.wikiwand.com/en/OPML)
+[RSS feeds](http://opmlviewer.com/Viewer/?https%3a%2f%2fraw.githubusercontent.com%2fsotayamashita%2ffeeds%2fmaster%2ffeeds.xml) I subscribe. Here is [OPML](https://raw.githubusercontent.com/sotayamashita/feeds/master/feeds.xml)
 
 ## Acknowledgements
 
