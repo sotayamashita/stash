@@ -17,6 +17,7 @@
       <outline type="rss" text="たけぞう瀕死ブログ" title="たけぞう瀕死ブログ" xmlUrl="http://d.hatena.ne.jp/takezoe/rss" htmlUrl="http://takezoe.hatenablog.com/"/>
       <outline type="rss" text="Postd" title="Postd" xmlUrl="http://postd.cc/feed/" htmlUrl="http://postd.cc"/>
       <outline type="rss" text="Big Sky" title="Big Sky" xmlUrl="http://mattn.kaoriya.net/index.rss" htmlUrl="http://mattn.kaoriya.net/"/>
+      <outline type="rss" text="mizchi's blog" title="mizchi's blog" xmlUrl="http://mizchi.hatenablog.com/feed" htmlUrl="http://mizchi.hatenablog.com/"/>
     </outline>
     
     <outline text="Frontend" title="Frontend">
