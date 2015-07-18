@@ -8,7 +8,7 @@ Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTIN
 
 ## Acknowledgements
 
-Inspiration and article was taken from many sources, including:
+Article was taken from many sources, including:
 
 * [frontend-feeds](https://github.com/paulirish/frontend-feeds) by Paul Irish
 * [frontend-feeds](https://github.com/impressivewebs/frontend-feeds) by Louis Lazaris
