@@ -2,6 +2,10 @@
 
 [RSS feeds](http://opmlviewer.com/Viewer/?https%3a%2f%2fraw.githubusercontent.com%2fsotayamashita%2ffeeds%2fmaster%2ffeeds.xml) I subscribe. Here is [OPML](https://raw.githubusercontent.com/sotayamashita/feeds/master/feeds.xml)
 
+## Contributing
+
+Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
+
 ## Acknowledgements
 
 Inspiration and article was taken from many sources, including:
