@@ -16,6 +16,10 @@ $ ./update
 * [JavaScript Weekly](http://javascriptweekly.com/) - weekly
 * [Web Development Reading List](https://wdrl.info/archive/) - weekly
 
+## Contributing
+
+Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
+
 ## Acknowledgements
 
 Feeds was taken from many sources, including:
@@ -28,9 +32,6 @@ Feeds was taken from many sources, including:
 * [Front End Resources](http://enboard.co/frontend/) by Dominik Serafin
 * [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) by Haydon Pickering
 
-## Contributing
-
-Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
 
 ## License
 
