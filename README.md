@@ -7,13 +7,14 @@
 ```bash
 $ ./update
 ```
+
 ## Contributing
 
 Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
 
 ## Acknowledgements
 
-Feeds was taken from many sources, including:
+Feeds were taken from many sources, including:
 
 * [frontend-feeds](https://github.com/paulirish/frontend-feeds) by Paul Irish
 * [frontend-feeds](https://github.com/impressivewebs/frontend-feeds) by Louis Lazaris
