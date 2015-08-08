@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <opml version="1.0">
   <head>
-    <title>Sindre Sorhus subscriptions in Digg Reader</title>
+    <title>Sota Yamashita subscriptions in Feedly Reader</title>
     <dateCreated>Wed, 14 Jul 2015 10:29:38 GMT</dateCreated>
     <ownerName>Sota Yamashita</ownerName>
   </head>
   <body>
-    
+
     <outline text="Japanese" title="Japanese">
       <outline type="rss" text="きしだのはてな" title="きしだのはてな" xmlUrl="http://d.hatena.ne.jp/nowokay/rss" htmlUrl="http://d.hatena.ne.jp/nowokay/"/>
       <outline type="rss" text="Block Rockin’ Codes" title="Block Rockin’ Codes" xmlUrl="http://d.hatena.ne.jp/Jxck/rss" htmlUrl="http://jxck.hatenablog.com/"/>
@@ -19,7 +19,24 @@
       <outline type="rss" text="Big Sky" title="Big Sky" xmlUrl="http://mattn.kaoriya.net/index.rss" htmlUrl="http://mattn.kaoriya.net/"/>
       <outline type="rss" text="mizchi's blog" title="mizchi's blog" xmlUrl="http://mizchi.hatenablog.com/feed" htmlUrl="http://mizchi.hatenablog.com/"/>
     </outline>
-    
+
+    <outline text="Accessibility" title="Accessibility">
+      <outline type="rss" text="Tink" title="Tink" xmlUrl="http://tink.co.uk/feed/" htmlUrl="http://tink.uk"/>
+      <outline type="rss" text="Web Axe" title="Web Axe" xmlUrl="http://www.webaxe.org/feed/" htmlUrl="http://www.webaxe.org"/>
+      <outline type="rss" text="456 Berea Street" title="456 Berea Street" xmlUrl="http://www.456bereastreet.com/feed.xml" htmlUrl="http://www.456bereastreet.com/"/>
+      <outline type="rss" text="WebAIM Blog" title="WebAIM Blog" xmlUrl="http://webaim.org/blog/feed" htmlUrl="http://webaim.org/blog"/>
+      <outline type="rss" text="Juicy Studio" title="Juicy Studio" xmlUrl="http://juicystudio.com/syndicate/juicyatom.xml" htmlUrl="http://juicystudio.com/"/>
+      <outline type="rss" text="Accessible Culture" title="Accessible Culture" xmlUrl="http://www.accessibleculture.org/feed/" htmlUrl="http://accessibleculture.org"/>
+      <outline type="rss" text="Marco's accessibility blog" title="Marco's accessibility blog" xmlUrl="http://www.marcozehe.de/feed/" htmlUrl="https://www.marcozehe.de"/>
+      <outline type="rss" text="Web Accessibility Initiative (WAI) Highlights" title="Web Accessibility Initiative (WAI) Highlights" xmlUrl="http://www.w3.org/WAI/highlights/rssfeed.rss" htmlUrl="http://www.w3.org/WAI/"/>
+      <outline type="rss" text="Adobe Accessibility" title="Adobe Accessibility" xmlUrl="http://blogs.adobe.com/accessibility/atom.xml" htmlUrl="http://blogs.adobe.com/accessibility"/>
+      <outline type="rss" text="Humanising Technology Blog" title="Humanising Technology Blog" xmlUrl="http://www.nomensa.com/blog/feed/" htmlUrl="http://www.nomensa.com/blog/"/>
+      <outline type="rss" text="Accessites.org" title="Accessites.org" xmlUrl="http://feeds.feedburner.com/accessites" htmlUrl="http://accessites.org/site"/>
+      <outline type="rss" text="Karl Groves » Karl Groves" title="Karl Groves » Karl Groves" xmlUrl="http://www.karlgroves.com/feed/" htmlUrl="http://www.karlgroves.com"/>
+      <outline type="rss" text="Simply Accessible" title="Simply Accessible" xmlUrl="http://simplyaccessible.com/feed/" htmlUrl="http://simplyaccessible.com"/>
+      <outline type="rss" text="The Paciello Group" title="The Paciello Group" xmlUrl="http://www.paciellogroup.com/blog/?feed=rss2" htmlUrl="http://www.paciellogroup.com"/>
+  	</outline>
+
     <outline text="Frontend" title="Frontend">
       <outline text="ESLint" title="ESLint" type="rss" xmlUrl="http://eslint.org/feed" htmlUrl="http://eslint.org" />
       <outline text="GitHub Engineering" title="GitHub Engineering" type="rss" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl="http://githubengineering.com" />

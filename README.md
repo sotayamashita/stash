@@ -7,7 +7,7 @@
 * [Web Components Weekey](http://webcomponentsweekly.me/) - weekly
 * [Dev Tips](https://umaar.com/dev-tips/) - weekly
 * [Frontend Weekly](https://frontendweekly.tokyo/) - weekly
-* [JavaScript Weekly](http://javascriptweekly.com/) - weekly 
+* [JavaScript Weekly](http://javascriptweekly.com/) - weekly
 * [Web Development Reading List](https://wdrl.info/archive/) - weekly
 
 ## Contributing
@@ -24,6 +24,7 @@ Article was taken from many sources, including:
 * [FRONT-END TECHNOLOGIES](http://uptodate.frontendrescue.org/) by Front-end Rescue
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) by Kilim Choi
 * [Front End Resources](http://enboard.co/frontend/) by Dominik Serafin
+* [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) by Haydon Pickering
 
 ## License
 
