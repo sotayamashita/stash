@@ -10,13 +10,9 @@
 * [JavaScript Weekly](http://javascriptweekly.com/) - weekly
 * [Web Development Reading List](https://wdrl.info/archive/) - weekly
 
-## Contributing
-
-Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
-
 ## Acknowledgements
 
-Article was taken from many sources, including:
+Feeds was taken from many sources, including:
 
 * [frontend-feeds](https://github.com/paulirish/frontend-feeds) by Paul Irish
 * [frontend-feeds](https://github.com/impressivewebs/frontend-feeds) by Louis Lazaris
@@ -25,6 +21,10 @@ Article was taken from many sources, including:
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) by Kilim Choi
 * [Front End Resources](http://enboard.co/frontend/) by Dominik Serafin
 * [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) by Haydon Pickering
+
+## Contributing
+
+Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
 
 ## License
 

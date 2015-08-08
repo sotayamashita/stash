@@ -35,7 +35,7 @@
       <outline type="rss" text="Karl Groves » Karl Groves" title="Karl Groves » Karl Groves" xmlUrl="http://www.karlgroves.com/feed/" htmlUrl="http://www.karlgroves.com"/>
       <outline type="rss" text="Simply Accessible" title="Simply Accessible" xmlUrl="http://simplyaccessible.com/feed/" htmlUrl="http://simplyaccessible.com"/>
       <outline type="rss" text="The Paciello Group" title="The Paciello Group" xmlUrl="http://www.paciellogroup.com/blog/?feed=rss2" htmlUrl="http://www.paciellogroup.com"/>
-  	</outline>
+    </outline>
 
     <outline text="Frontend" title="Frontend">
       <outline text="ESLint" title="ESLint" type="rss" xmlUrl="http://eslint.org/feed" htmlUrl="http://eslint.org" />
