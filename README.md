@@ -7,15 +7,6 @@
 ```bash
 $ ./update
 ```
-
-## Newsletters
-
-* [Web Components Weekey](http://webcomponentsweekly.me/) - weekly
-* [Dev Tips](https://umaar.com/dev-tips/) - weekly
-* [Frontend Weekly](https://frontendweekly.tokyo/) - weekly
-* [JavaScript Weekly](http://javascriptweekly.com/) - weekly
-* [Web Development Reading List](https://wdrl.info/archive/) - weekly
-
 ## Contributing
 
 Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
