@@ -1,4 +1,6 @@
-# stash
+# Stash
+
+> A curated list of the best RSS feeds and Newsletters
 
 [RSS feeds](http://opmlviewer.com/Viewer/?https%3a%2f%2fraw.githubusercontent.com%2fsotayamashita%2ffeeds%2fmaster%2ffeeds.xml) and [Newletters](#newsletters) I subscribe. Here is [OPML](https://raw.githubusercontent.com/sotayamashita/feeds/master/feeds.xml)
 
