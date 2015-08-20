@@ -1,4 +1,6 @@
-# Stash
+<p align="center">
+<img src="https://dl.dropboxusercontent.com/u/74344418/github-image/stash.png" width="280" />
+</p><br />
 
 > A curated list of the best RSS feeds and Newsletters
 
