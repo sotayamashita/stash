@@ -23,6 +23,7 @@ Feeds were taken from many sources, including:
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) by Kilim Choi
 * [Front End Resources](http://enboard.co/frontend/) by Dominik Serafin
 * [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) by Haydon Pickering
+* [NewsletterStash](http://www.newsletterstash.com/newsletters/category/design) by NewsletterStash 
 
 
 ## License
