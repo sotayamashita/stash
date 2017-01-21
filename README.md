@@ -1,4 +1,4 @@
-# stash
+# Stash
 
 [RSS feeds](http://opmlviewer.com/Viewer/?https%3a%2f%2fraw.githubusercontent.com%2fsotayamashita%2ffeeds%2fmaster%2ffeeds.xml) and [Newletters](#newsletters) I subscribe. Here is [OPML](https://raw.githubusercontent.com/sotayamashita/feeds/master/feeds.xml)
 
@@ -7,24 +7,6 @@
 ```bash
 $ ./update
 ```
-
-## Contributing
-
-Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
-
-## Acknowledgements
-
-Feeds were taken from many sources, including:
-
-* [frontend-feeds](https://github.com/paulirish/frontend-feeds) by Paul Irish
-* [frontend-feeds](https://github.com/impressivewebs/frontend-feeds) by Louis Lazaris
-* [Stuff](https://github.com/sindresorhus/stuff) by Sindre Sorhus
-* [FRONT-END TECHNOLOGIES](http://uptodate.frontendrescue.org/) by Front-end Rescue
-* [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) by Kilim Choi
-* [Front End Resources](http://enboard.co/frontend/) by Dominik Serafin
-* [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) by Haydon Pickering
-* [NewsletterStash](http://www.newsletterstash.com/newsletters/category/design) by NewsletterStash 
-
 
 ## License
 
