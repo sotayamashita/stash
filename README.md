@@ -1,24 +1,4 @@
-> A curated list of the best RSS feeds and Newsletters 
-
-<br />
-
-<p align="center">
-<img src="https://dl.dropboxusercontent.com/u/74344418/github-image/stash.png" width="280" />
-</p><br />
-
-<p align="center">
-  <b><a href="#about">About</a></b>
-  |
-  <b><a href="#update">Update</a></b>
-  |
-  <b><a href="#contributing">Contributing</a></b>
-  |
-  <b><a href="#acknowledgements">Acknowledgements</a></b>
-  |
-  <b><a href="#license">License</a></b>
-</p>
-
-## About
+# stash
 
 [RSS feeds](http://opmlviewer.com/Viewer/?https%3a%2f%2fraw.githubusercontent.com%2fsotayamashita%2ffeeds%2fmaster%2ffeeds.xml) and [Newletters](#newsletters) I subscribe. Here is [OPML](https://raw.githubusercontent.com/sotayamashita/feeds/master/feeds.xml)
 
